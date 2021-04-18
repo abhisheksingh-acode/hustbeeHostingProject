@@ -37,6 +37,7 @@
   color: rgb(141, 84, 10);
 }
 #service-container .card {
+  /* width: 200px; */
   margin: 10px auto;
 }
 #news-section-background {
