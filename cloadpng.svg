@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="691" height="409" viewBox="0 0 691 409">
+  <defs>
+    <clipPath id="clip-cloadpng">
+      <rect width="691" height="409"/>
+    </clipPath>
+  </defs>
+  <g id="cloadpng" clip-path="url(#clip-cloadpng)">
+    <rect width="691" height="409" fill="rgba(255,255,255,0)"/>
+    <ellipse id="Ellipse_6" data-name="Ellipse 6" cx="119.509" cy="61.402" rx="119.509" ry="61.402" transform="translate(-114.287 262.212) rotate(-20)" fill="rgba(67,69,86,0.99)"/>
+    <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(447 346)" fill="rgba(67,69,86,0.99)" stroke="#707070" stroke-width="1">
+      <ellipse cx="69" cy="72" rx="69" ry="72" stroke="none"/>
+      <ellipse cx="69" cy="72" rx="68.5" ry="71.5" fill="none"/>
+    </g>
+    <ellipse id="Ellipse_7" data-name="Ellipse 7" cx="90" cy="72" rx="90" ry="72" transform="matrix(0.921, 0.391, -0.391, 0.921, 582.265, 254.116)" fill="rgba(67,69,86,0.99)"/>
+    <ellipse id="Ellipse_8" data-name="Ellipse 8" cx="87" cy="87.5" rx="87" ry="87.5" transform="translate(596 142)" fill="rgba(67,69,86,0.99)"/>
+    <ellipse id="Ellipse_4" data-name="Ellipse 4" cx="108.969" cy="68" rx="108.969" ry="68" transform="matrix(0.914, -0.407, 0.407, 0.914, -15.37, 309.259)" fill="rgba(67,69,86,0.99)"/>
+    <ellipse id="Ellipse_9" data-name="Ellipse 9" cx="163.346" cy="92.038" rx="163.346" ry="92.038" transform="translate(-2.895 275.721) rotate(10)" fill="rgba(67,69,86,0.99)"/>
+    <ellipse id="Ellipse_5" data-name="Ellipse 5" cx="116.5" cy="118.5" rx="116.5" ry="118.5" transform="translate(226.055 440.921) rotate(-71)" fill="rgba(67,69,86,0.99)"/>
+    <ellipse id="Ellipse_10" data-name="Ellipse 10" cx="77" cy="76.082" rx="77" ry="76.082" transform="translate(-77.99 262.171) rotate(-71)" fill="rgba(67,69,86,0.99)"/>
+  </g>
+</svg>
